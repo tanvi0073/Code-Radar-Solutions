@@ -52,9 +52,9 @@ int main(){
         printf("%d",31);
         break;
         default:
-        printf("invalid month");
+        printf("Invalid month");
 
     }
     return 0;
-    
+
 }
