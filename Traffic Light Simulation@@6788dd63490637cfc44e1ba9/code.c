@@ -13,7 +13,6 @@ int main(){
         case'Y':
             printf("Slow Down");
         break;
-        
         default:
         printf("Invalid input");
     }
@@ -21,5 +20,4 @@ int main(){
 }
 
  
-    }
-}
+    
