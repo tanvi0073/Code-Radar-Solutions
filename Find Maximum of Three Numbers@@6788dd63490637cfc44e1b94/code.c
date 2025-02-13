@@ -7,6 +7,6 @@ int a,b,c;
    else if(b>=a && b>=c)
    {printf("%d",b);}
     else
-    {printf("%d",a);}
+    {printf("%d",c);}
     return 0;
 }
