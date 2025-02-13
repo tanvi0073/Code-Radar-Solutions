@@ -4,8 +4,8 @@ int main(){
     scanf("%d",&a);
     if (a>0){
         print("Positive");}
-    else if (a<0);
-        printf("Negative");
+    else if {(a<0);
+        printf("Negative");}
     else{
         printf("Zero")}
         return 0;
