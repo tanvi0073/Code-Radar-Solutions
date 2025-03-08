@@ -4,6 +4,6 @@ int main(){
     float pi=14159;
     scanf("%f",&rad);
     area=pi*rad*rad;
-    printf("%d\n",area);
+    printf("%f\n",area);
     return 0;
 }
