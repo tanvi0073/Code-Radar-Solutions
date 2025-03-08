@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
     int rad;
-    int area=3.14*rad*rad
     scanf("%d",&rad);
-    printf("%d\n",&rad);
+    int area=3.14*rad*rad
+    printf("%d\n",&area);
     return 0;
 }
