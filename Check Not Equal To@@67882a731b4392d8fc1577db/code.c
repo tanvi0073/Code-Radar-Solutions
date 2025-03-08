@@ -5,11 +5,8 @@ int main(){
     if (a!==b){
         printf("False\n");
     }
-    else(a==b){
-        printf("True\n");
-    }
     else{
-        printf("False");
+        printf("True\n");
     }
     return 0;
 }
