@@ -6,4 +6,4 @@ int main(){
     area=pi*rad*rad;
     printf("%d\n",area);
     return 0;
-}.
+}
