@@ -1,6 +1,6 @@
 #include<stdio.h>
 int main(){
-    int selling price,int selling price;
+    int cost price,int selling price;
     scanf("%d %d,&cost price,&selling price");
     if(selling price>cost price){
         printf("Profit\n");
