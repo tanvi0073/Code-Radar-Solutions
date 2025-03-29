@@ -9,7 +9,7 @@ int main(){
         printf("Divisible by 5");
     }
     else{
-        printf("Divisible by both");
+        printf("Divisible by Both");
     }
     return 0;
 }
