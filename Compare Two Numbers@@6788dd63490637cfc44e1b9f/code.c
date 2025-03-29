@@ -5,9 +5,12 @@ int main(){
  if(n1==n2){
     printf("Equal");
  }
- else{
-    printf("First");
- }
+ else if(n1>n2){
+    printf("First");}
+    else{
+    printf("Second")
+    }
+ 
 
 
 
