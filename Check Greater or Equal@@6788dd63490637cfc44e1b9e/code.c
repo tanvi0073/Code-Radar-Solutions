@@ -1,8 +1,8 @@
 #include<stdio.h>
 int main(){
-    int n;
+    int n1,n2;
     scanf("%d",&n);
-    if(n>=0){
+    if(n1>=n2){
         printf("Yes");
     }
     else{
