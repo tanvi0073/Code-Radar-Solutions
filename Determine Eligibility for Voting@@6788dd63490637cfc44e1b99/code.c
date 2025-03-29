@@ -6,7 +6,7 @@ if (age>18){
     printf("Eligible");
 }
 else{
-    printf("Not eligible");
+    printf("Not Eligible");
 }
 
 return 0;
