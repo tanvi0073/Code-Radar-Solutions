@@ -5,11 +5,11 @@ int main(){
     if(n3%3==0){
         printf("Divisible by 3");
     }
-    else if(n5%5==0){
+    else if(n5%5==0 && n3%3==0){
         printf("Divisible by 5");
     }
     else{
-        printf("Divisible by Both");
+        printf("Divisible by 5");
     }
     return 0;
 }
