@@ -1,14 +1,14 @@
 #include<stdio.h>
 int main(){
-    int n3,n5;
-    scanf("%d %d",&n3,&n5);
-    if(n3%3==0){
+    int n;
+    scanf("%d",&n);
+    if(n%3==0){
         printf("Divisible by 3");
     }
-    else if(n5%5==0){
+    else if(n%5==0){
         printf("Divisible by 5");
     }
-    else if(n5%5==0 && n3%3==0){
+    else if(n%5==0 && n%3==0){
         printf("Divisible by Both");
     }
     else{
